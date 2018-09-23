@@ -1,0 +1,48 @@
+.jumbotron {
+
+    background-color: #5271FF;
+    color: #fff;
+    font-family: 'Permanent Marker', cursive;
+
+}
+
+.lead {
+
+    padding-left: 175px;
+    font-size:25px;
+
+}
+
+#question {
+
+    padding: 50px 30px;
+
+}
+
+.buffer {
+
+    margin: 10px 10px;
+    background-color: lightgray;
+
+}
+
+#timerCSS {
+
+    padding-left: 1000px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+
+}
+
+button {
+
+    position: absolute;
+    left: 30%;
+
+}
+
+#welcomeMsg {
+
+    padding-left:20%;
+
+}
